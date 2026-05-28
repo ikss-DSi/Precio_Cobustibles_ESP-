@@ -1,0 +1,69 @@
+columna,palabra_erronea,palabra_sustituta,Id_Provincia,provincia_catalogo_normalizada,distancia_similitud,metodo_match
+Carburante,Gases licuados del petrÔøΩleo,Gases licuados del petroleo,,,,
+Carburante,Gases licuados del petrÛleo,Gases licuados del petroleo,,,,
+Carburante,GasÔøΩleo A habitual,Gasoleo A habitual,,,,
+Carburante,GasÔøΩleo Premium,Gasoleo Premium,,,,
+Carburante,GasÛleo A habitual,Gasoleo A habitual,,,,
+Carburante,GasÛleo Premium,Gasoleo Premium,,,,
+Comunidad Autonoma,AragÔøΩn,Aragon,,,,
+Comunidad Autonoma,Castilla y LeÔøΩn,Castilla y Leon,,,,
+Comunidad Autonoma,CataluÔøΩa,Cataluna,,,,
+Comunidad Autonoma,PaÌs Vasco,Pais Vasco,,,,
+Comunidad Autonoma,PaÔøΩs Vasco,Pais Vasco,,,,
+Provincia,ALBACETE,Albacete,02,ALBACETE,0,coincidencia_exacta
+Provincia,ALICANTE,Alacant/Alicante,03,ALACANT ALICANTE,8,tokens_raw_contenidos_en_catalogo
+Provincia,ALMERÔøΩA,Almer√≠a,04,ALMERIA,0,regla_manual_codificacion
+Provincia,ARABA/¡LAVA,√Ålava,01,ALAVA,0,regla_manual_codificacion
+Provincia,ARABA/ÔøΩLAVA,√Ålava,01,ALAVA,0,regla_manual_codificacion
+Provincia,ASTURIAS,Asturias,33,ASTURIAS,0,coincidencia_exacta
+Provincia,BADAJOZ,Badajoz,06,BADAJOZ,0,coincidencia_exacta
+Provincia,BALEARS (ILLES),Islas Baleares,07,ISLAS BALEARES,0,regla_manual_codificacion
+Provincia,BARCELONA,Barcelona,08,BARCELONA,0,coincidencia_exacta
+Provincia,BIZKAIA,Bizkaia,48,BIZKAIA,0,coincidencia_exacta
+Provincia,BURGOS,Burgos,09,BURGOS,0,coincidencia_exacta
+Provincia,CANTABRIA,Cantabria,39,CANTABRIA,0,coincidencia_exacta
+Provincia,CASTELL”N / CASTELL”,Castell√≥n,12,CASTELLON,0,regla_manual_codificacion
+Provincia,CASTELLÔøΩN / CASTELLÔøΩ,Castell√≥n,12,CASTELLON,0,regla_manual_codificacion
+Provincia,CEUTA,Ceuta,51,CEUTA,0,coincidencia_exacta
+Provincia,CIUDAD REAL,Ciudad Real,13,CIUDAD REAL,0,coincidencia_exacta
+Provincia,CORU—A (A),A Coru√±a,15,A CORUNA,0,regla_manual_codificacion
+Provincia,CORUÔøΩA (A),A Coru√±a,15,A CORUNA,0,regla_manual_codificacion
+Provincia,CUENCA,Cuenca,16,CUENCA,0,coincidencia_exacta
+Provincia,C¡CERES,C√°ceres,10,CACERES,0,regla_manual_codificacion
+Provincia,CÔøΩCERES,C√°ceres,10,CACERES,0,regla_manual_codificacion
+Provincia,CÔøΩDIZ,C√°diz,11,CADIZ,0,regla_manual_codificacion
+Provincia,CÔøΩRDOBA,C√≥rdoba,14,CORDOBA,0,regla_manual_codificacion
+Provincia,GIPUZKOA,Gipuzkoa,20,GIPUZKOA,0,coincidencia_exacta
+Provincia,GIRONA,Girona,17,GIRONA,0,coincidencia_exacta
+Provincia,GRANADA,Granada,18,GRANADA,0,coincidencia_exacta
+Provincia,GUADALAJARA,Guadalajara,19,GUADALAJARA,0,coincidencia_exacta
+Provincia,HUELVA,Huelva,21,HUELVA,0,coincidencia_exacta
+Provincia,HUESCA,Huesca,22,HUESCA,0,coincidencia_exacta
+Provincia,JAÔøΩN,Ja√©n,23,JAEN,0,regla_manual_codificacion
+Provincia,LEÔøΩN,Le√≥n,24,LEON,0,regla_manual_codificacion
+Provincia,LLEIDA,Lleida,25,LLEIDA,0,coincidencia_exacta
+Provincia,LUGO,Lugo,27,LUGO,0,coincidencia_exacta
+Provincia,MADRID,Madrid,28,MADRID,0,coincidencia_exacta
+Provincia,MELILLA,Melilla,52,MELILLA,0,coincidencia_exacta
+Provincia,MURCIA,Murcia,30,MURCIA,0,coincidencia_exacta
+Provincia,MÔøΩLAGA,M√°laga,29,MALAGA,0,regla_manual_codificacion
+Provincia,NAVARRA,Navarra,31,NAVARRA,0,coincidencia_exacta
+Provincia,OURENSE,Ourense,32,OURENSE,0,coincidencia_exacta
+Provincia,PALENCIA,Palencia,34,PALENCIA,0,coincidencia_exacta
+Provincia,PALMAS (LAS),Las Palmas,35,LAS PALMAS,6,coincidencia_tokens_ordenados
+Provincia,PONTEVEDRA,Pontevedra,36,PONTEVEDRA,0,coincidencia_exacta
+Provincia,RIOJA (LA),La Rioja,26,LA RIOJA,6,coincidencia_tokens_ordenados
+Provincia,SALAMANCA,Salamanca,37,SALAMANCA,0,coincidencia_exacta
+Provincia,SANTA CRUZ DE TENERIFE,Santa Cruz de Tenerife,38,SANTA CRUZ DE TENERIFE,0,coincidencia_exacta
+Provincia,SEGOVIA,Segovia,40,SEGOVIA,0,coincidencia_exacta
+Provincia,SEVILLA,Sevilla,41,SEVILLA,0,coincidencia_exacta
+Provincia,SORIA,Soria,42,SORIA,0,coincidencia_exacta
+Provincia,TARRAGONA,Tarragona,43,TARRAGONA,0,coincidencia_exacta
+Provincia,TERUEL,Teruel,44,TERUEL,0,coincidencia_exacta
+Provincia,TOLEDO,Toledo,45,TOLEDO,0,coincidencia_exacta
+Provincia,VALENCIA / VAL»NCIA,Valencia,46,VALENCIA,0,regla_manual_codificacion
+Provincia,VALENCIA / VALÔøΩNCIA,Valencia,46,VALENCIA,0,regla_manual_codificacion
+Provincia,VALLADOLID,Valladolid,47,VALLADOLID,0,coincidencia_exacta
+Provincia,ZAMORA,Zamora,49,ZAMORA,0,coincidencia_exacta
+Provincia,ZARAGOZA,Zaragoza,50,ZARAGOZA,0,coincidencia_exacta
+Provincia,ÔøΩVILA,√Åvila,05,AVILA,0,regla_manual_codificacion

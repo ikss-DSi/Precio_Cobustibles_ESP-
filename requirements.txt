@@ -1,0 +1,16 @@
+readr
+dplyr
+stringr
+janitor
+tidyr
+lubridate
+sf
+ggplot2
+RColorBrewer
+mapSpain
+ranger
+caret
+factoextra
+cluster
+dunn.test
+car

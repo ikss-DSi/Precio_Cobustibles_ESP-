@@ -1,0 +1,8 @@
+Carburante,Registros,Outliers_Detectados,Porcentaje_Outliers,Precio_Minimo_Original,Precio_Maximo_Original,Precio_Minimo_Tratado,Precio_Maximo_Tratado
+Gases licuados del petroleo,50930,1929,3.788,0.597,1.216,0.597,1.216
+Gas natural comprimido,40956,1486,3.628,0,3.89,0.78,3.89
+Gas natural licuado,38558,1311,3.4,0,3.599,0.649,3.599
+Gasolina 95 E5,55588,1230,2.213,0.734,2.202,0.734,2.202
+Gasoleo Premium,55588,1195,2.15,0,2.243,0.709,2.243
+Gasolina 98 E5,53259,1161,2.18,0.854,2.351,0.854,2.351
+Gasoleo A habitual,55588,1152,2.072,0.666,2.146,0.666,2.146
